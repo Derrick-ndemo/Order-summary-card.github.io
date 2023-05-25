@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site](https://your-live-site-url.com)
+- Live Site URL: [https://derrick-ndemo.github.io/Order-summary-card.github.io/](https://derrick-ndemo.github.io/Order-summary-card.github.io/)
 
 ## My process
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Derrick Ndmo](https://www.your-site.com)
+- Website - [Derrick Ndmo](https://derrick-ndemo.github.io/Order-summary-card.github.io/)
 - Frontend Mentor - [@Bluesanta5](https://www.frontendmentor.io/profile/Bluesanta5)
 - Twitter - [@santagotthejuic](https://www.twitter.com/santagotthejuic)
 
